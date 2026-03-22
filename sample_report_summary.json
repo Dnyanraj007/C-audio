@@ -1,0 +1,30 @@
+{
+  "overall_accuracy_percent": 55.0,
+  "total_test_cases": 3,
+  "persona_summary": [
+    {
+      "Persona": "Sample Persona",
+      "Average Score": 55.0
+    }
+  ],
+  "category_summary": [
+    {
+      "Category": "eligibility",
+      "Average Score": 65.0
+    },
+    {
+      "Category": "fee",
+      "Average Score": 0.0
+    },
+    {
+      "Category": "rate",
+      "Average Score": 100.0
+    }
+  ],
+  "result_breakdown": {
+    "Correct": 1,
+    "Partially Correct": 1,
+    "Irrelevant": 1
+  },
+  "source_domain": "example.com"
+}
